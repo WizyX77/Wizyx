@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Wizyx",
-  description: "**» Bot / Web Developer & Content Creator. Professional Pubg Mobile Player, S2G Here Academy Leader! «**",
+  description: "𝐁𝐨𝐭 / 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐂𝐫𝐞𝐚𝐭𝐨𝐫. 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐏𝐮𝐛𝐠 𝐌𝐨𝐛𝐢𝐥𝐞 𝐏𝐥𝐚𝐲𝐞𝐫, 𝐒𝟐𝐆 𝐇𝐞𝐫𝐞 𝐀𝐜𝐚𝐝𝐞𝐦𝐲 𝐋𝐞𝐚𝐝𝐞𝐫!",
   themeColor: "#8B5CF6",
   robots: "index, follow",
   viewport: "width=device-width, initial-scale=1, maximum-scale=1",
