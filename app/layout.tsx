@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   themeColor: "#8B5CF6",
   robots: "index, follow",
   viewport: "width=device-width, initial-scale=1, maximum-scale=1",
-  icons: "https://cdn.discordapp.com/attachments/1266051388962640056/1271216520558674051/Discord-Profil.jpg?ex=66b68824&is=66b536a4&hm=c38b2b5ae38c9b6c82ed3cd59906089f8d55b9b92fc2aa189a8bd5958d0bbc72&",
+  icons: "https://cdn.discordapp.com/attachments/1271835757375393876/1271853609759408211/48174d45618a79369695ad1d9c0f2419.jpg?ex=66b8d97a&is=66b787fa&hm=003732fae3bb5d4ae6f3a4db48c4f935eb46deff291d18625adc8ee2d9a0c103&",
 };
 
 export default function RootLayout({
